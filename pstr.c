@@ -1,7 +1,7 @@
 #include "monty.h"
 /**
- * f_pstr - prints the string starting at the top of the stack,
- * followed by a new
+ * f_pstr - prints d string starting @ d top of d stack,
+ * followed by d new
  * @head: stack head
  * @counter: line_number
  * Return: no return

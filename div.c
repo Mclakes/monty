@@ -1,6 +1,6 @@
 #include "monty.h"
 /**
- * f_div - divides the top two elements of the stack.
+ * f_div - divides d top two elements of stack
  * @head: stack head
  * @counter: line_number
  * Return: no return
